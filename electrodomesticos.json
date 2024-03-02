@@ -1,0 +1,199 @@
+[
+      {
+        "nombre": "TV LED - Samsung",
+        "dimensiones": {"alto": "120 cm", "ancho": "180 cm", "profundidad": "10 cm"},
+        "descripcion": "Televisor LED de 55 pulgadas con resolución 4K."
+      },
+      {
+        "nombre": "Lavaropas - Sony",
+        "dimensiones": {"alto": "85 cm", "ancho": "60 cm", "profundidad": "55 cm"},
+        "descripcion": "Lavadora de carga frontal con capacidad para 9 kg de ropa."
+      },
+      {
+        "nombre": "Licuadora - Lix",
+        "dimensiones": {"alto": "40 cm", "ancho": "20 cm", "profundidad": "15 cm"},
+        "descripcion": "Licuadora de alta potencia con jarra de vidrio."
+      },
+      {
+        "nombre": "Cámara Digital - Sony",
+        "dimensiones": {"alto": "10 cm", "ancho": "12 cm", "profundidad": "8 cm"},
+        "descripcion": "Cámara digital compacta con zoom óptico de 20x."
+      },
+      {
+        "nombre": "Aspiradora sin Bolsa - Den",
+        "dimensiones": {"alto": "30 cm", "ancho": "25 cm", "profundidad": "15 cm"},
+        "descripcion": "Aspiradora sin bolsa con tecnología de filtrado HEPA."
+      },
+      {
+        "nombre": "Aire Acondicionado Split - Edna",
+        "dimensiones": {"alto": "60 cm", "ancho": "80 cm", "profundidad": "20 cm"},
+        "descripcion": "Aire acondicionado split de 12,000 BTU con control remoto."
+      },
+      {
+        "nombre": "Máquina de Café Espresso - Liliana",
+        "dimensiones": {"alto": "35 cm", "ancho": "25 cm", "profundidad": "30 cm"},
+        "descripcion": "Máquina de café espresso con vaporizador de leche."
+      },
+      {
+        "nombre": "Secadora de Ropa - Samsung",
+        "dimensiones": {"alto": "80 cm", "ancho": "60 cm", "profundidad": "55 cm"},
+        "descripcion": "Secadora de ropa con capacidad para 7 kg de carga."
+      },
+      {
+        "nombre": "Aspiradora Robot - Echo",
+        "dimensiones": {"alto": "10 cm", "ancho": "35 cm", "profundidad": "35 cm"},
+        "descripcion": "Robot aspirador con mapeo inteligente y control por app."
+      },
+      {
+        "nombre": "Barra de Sonido - Sonos",
+        "dimensiones": {"alto": "8 cm", "ancho": "90 cm", "profundidad": "6 cm"},
+        "descripcion": "Barra de sonido para TV con subwoofer inalámbrico."
+      },
+      {
+        "nombre": "Cocina de Gas - Elegas",
+        "dimensiones": {"alto": "85 cm", "ancho": "60 cm", "profundidad": "55 cm"},
+        "descripcion": "Cocina de gas con horno y cuatro quemadores."
+      },
+      {
+        "nombre": "Batidora de Mano - Liliana",
+        "dimensiones": {"alto": "25 cm", "ancho": "15 cm", "profundidad": "10 cm"},
+        "descripcion": "Batidora de mano con múltiples velocidades y accesorios."
+      },
+      {
+        "nombre": "Impresora Multifunción - HP",
+        "dimensiones": {"alto": "20 cm", "ancho": "40 cm", "profundidad": "30 cm"},
+        "descripcion": "Impresora multifunción con escáner y conexión inalámbrica."
+      },
+      {
+        "nombre": "Exprimidor de Cítricos - Liliana",
+        "dimensiones": {"alto": "30 cm", "ancho": "20 cm", "profundidad": "15 cm"},
+        "descripcion": "Exprimidor eléctrico de cítricos con filtro para pulpa."
+      },
+      {
+        "nombre": "Cámara de Seguridad - Asos",
+        "dimensiones": {"alto": "15 cm", "ancho": "10 cm", "profundidad": "10 cm"},
+        "descripcion": "Cámara de seguridad IP con visión nocturna y detección de movimiento."
+      },
+      {
+        "nombre": "Plancha de Vapor - Peco",
+        "dimensiones": {"alto": "15 cm", "ancho": "30 cm", "profundidad": "10 cm"},
+        "descripcion": "Plancha de vapor con suela antiadherente y sistema antigoteo."
+      },
+      {
+        "nombre": "Altavoz Bluetooth - Bose",
+        "dimensiones": {"alto": "20 cm", "ancho": "15 cm", "profundidad": "10 cm"},
+        "descripcion": "Altavoz Bluetooth portátil con batería recargable."
+      },
+      {
+        "nombre": "Cepillo Eléctrico para Dientes - Colgate",
+        "dimensiones": {"alto": "20 cm", "ancho": "3 cm", "profundidad": "3 cm"},
+        "descripcion": "Cepillo eléctrico recargable con temporizador y múltiples modos de cepillado."
+      },
+      {
+        "nombre": "Freidora de Aire - Echo",
+        "dimensiones": {"alto": "35 cm", "ancho": "30 cm", "profundidad": "30 cm"},
+        "descripcion": "Freidora de aire sin aceite con capacidad para 4 litros."
+      },
+      {
+        "nombre": "Máquina de Hielo - Samsung",
+        "dimensiones": {"alto": "40 cm", "ancho": "30 cm", "profundidad": "35 cm"},
+        "descripcion": "Máquina automática para hacer hielo en cubitos."
+      },
+      {
+        "nombre": "Purificador de Aire - Air",
+        "dimensiones": {"alto": "50 cm", "ancho": "25 cm", "profundidad": "20 cm"},
+        "descripcion": "Purificador de aire con filtro HEPA y control remoto."
+      },
+      {
+        "nombre": "Cafetera de capsula - Nescafe",
+        "dimensiones": {"alto": "35 cm", "ancho": "20 cm", "profundidad": "25 cm"},
+        "descripcion": "Cafetera con capsulas con termo de 1lt."
+      },
+        {
+          "nombre": "Televisor LED - Panasonic",
+          "dimensiones": {"alto": "120 cm", "ancho": "180 cm", "profundidad": "10 cm"},
+          "descripcion": "Televisor LED de 55 pulgadas con resolución 4K."
+        },
+        {
+          "nombre": "Lavadora de Ropa - Whirpool",
+          "dimensiones": {"alto": "85 cm", "ancho": "60 cm", "profundidad": "55 cm"},
+          "descripcion": "Lavadora de carga frontal con capacidad para 9 kg de ropa."
+        },
+        {
+          "nombre": "Licuadora - Kitchenaid",
+          "dimensiones": {"alto": "40 cm", "ancho": "20 cm", "profundidad": "15 cm"},
+          "descripcion": "Licuadora de alta potencia con jarra de vidrio."
+        },
+        {
+          "nombre": "Cámara Digital - Kodak",
+          "dimensiones": {"alto": "10 cm", "ancho": "12 cm", "profundidad": "8 cm"},
+          "descripcion": "Cámara digital compacta con zoom óptico de 20x."
+        },
+        {
+          "nombre": "Aspiradora sin Bolsa - Roomba",
+          "dimensiones": {"alto": "30 cm", "ancho": "25 cm", "profundidad": "15 cm"},
+          "descripcion": "Aspiradora sin bolsa con tecnología de filtrado HEPA."
+        },
+        {
+          "nombre": "Aire Acondicionado - Samsung",
+          "dimensiones": {"alto": "60 cm", "ancho": "80 cm", "profundidad": "20 cm"},
+          "descripcion": "Aire acondicionado split de 12,000 BTU con control remoto."
+        },
+        {
+          "nombre": "Máquina de Café Espresso - San Remo",
+          "dimensiones": {"alto": "35 cm", "ancho": "25 cm", "profundidad": "30 cm"},
+          "descripcion": "Máquina de café espresso con vaporizador de leche."
+        },
+        {
+          "nombre": "Secadora de Ropa - Whirpool",
+          "dimensiones": {"alto": "80 cm", "ancho": "60 cm", "profundidad": "55 cm"},
+          "descripcion": "Secadora de ropa con capacidad para 7 kg de carga."
+        },
+        {
+          "nombre": "Aspiradora Robot - HP",
+          "dimensiones": {"alto": "10 cm", "ancho": "35 cm", "profundidad": "35 cm"},
+          "descripcion": "Robot aspirador con mapeo inteligente y control por app."
+        },
+        {
+          "nombre": "Barra de Sonido - JBL",
+          "dimensiones": {"alto": "8 cm", "ancho": "90 cm", "profundidad": "6 cm"},
+          "descripcion": "Barra de sonido para TV con subwoofer inalámbrico."
+        },
+        {
+          "nombre": "Cocina de Gas - GasMax",
+          "dimensiones": {"alto": "85 cm", "ancho": "60 cm", "profundidad": "55 cm"},
+          "descripcion": "Cocina de gas con horno y cuatro quemadores."
+        },
+        {
+          "nombre": "Batidora de Mano - Kitchenaid",
+          "dimensiones": {"alto": "25 cm", "ancho": "15 cm", "profundidad": "10 cm"},
+          "descripcion": "Batidora de mano con múltiples velocidades y accesorios."
+        },
+        {
+          "nombre": "Impresora Multifunción - Canon",
+          "dimensiones": {"alto": "20 cm", "ancho": "40 cm", "profundidad": "30 cm"},
+          "descripcion": "Impresora multifunción con escáner y conexión inalámbrica."
+        },
+        {
+          "nombre": "Juguera - Oyster",
+          "dimensiones": {"alto": "30 cm", "ancho": "20 cm", "profundidad": "15 cm"},
+          "descripcion": "Juguera eléctrica de cítricos con filtro para pulpa."
+        },
+        {
+          "nombre": "Cámara de Seguridad - SPL",
+          "dimensiones": {"alto": "15 cm", "ancho": "10 cm", "profundidad": "10 cm"},
+          "descripcion": "Cámara de seguridad IP con visión nocturna y detección de movimiento."
+        },
+        {
+          "nombre": "Plancha - Armex",
+          "dimensiones": {"alto": "15 cm", "ancho": "30 cm", "profundidad": "10 cm"},
+          "descripcion": "Plancha de vapor con suela antiadherente y sistema antigoteo."
+        },
+        {
+          "nombre": "Altavoz Bluetooth - Wonderbox",
+          "dimensiones": {"alto": "20 cm", "ancho": "15 cm", "profundidad": "10 cm"},
+          "descripcion": "Altavoz Bluetooth portátil con batería recargable."
+        }    
+]
+  
+  
