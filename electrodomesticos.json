@@ -5,7 +5,7 @@
         "descripcion": "Televisor LED de 55 pulgadas con resolución 4K."
       },
       {
-        "nombre": "Lavaropas - Sony",
+        "nombre": "Lavarropas - Sony",
         "dimensiones": {"alto": "85 cm", "ancho": "60 cm", "profundidad": "55 cm"},
         "descripcion": "Lavadora de carga frontal con capacidad para 9 kg de ropa."
       },
@@ -115,7 +115,7 @@
           "descripcion": "Televisor LED de 55 pulgadas con resolución 4K."
         },
         {
-          "nombre": "Lavadora de Ropa - Whirpool",
+          "nombre": "Lavarropas - Whirpool",
           "dimensiones": {"alto": "85 cm", "ancho": "60 cm", "profundidad": "55 cm"},
           "descripcion": "Lavadora de carga frontal con capacidad para 9 kg de ropa."
         },

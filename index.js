@@ -41,7 +41,7 @@ async function searchData(){
                 <h2 class="prod_title">${result.nombre}</h2>
                 <div class="dimension_container">
                     <h4 class="dimension_title">Medidas</h4>
-                    <ul class="dimension_list">
+                    <ul>
                         <li>Alto: ${result.dimensiones.alto}</li>
                         <li>Ancho: ${result.dimensiones.ancho}</li>
                         <li>Profundidad: ${result.dimensiones.profundidad}</li>
